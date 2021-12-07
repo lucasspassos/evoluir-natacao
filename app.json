@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "evoluir-natacao",
+    "slug": "evoluir-natacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "evoluir-natacao"
+}
